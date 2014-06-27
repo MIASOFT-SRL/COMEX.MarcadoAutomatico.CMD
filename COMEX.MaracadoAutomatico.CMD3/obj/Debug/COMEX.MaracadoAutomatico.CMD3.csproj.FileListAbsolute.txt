@@ -1,0 +1,15 @@
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\bin\Debug\COMEX.MaracadoAutomatico.CMD3.exe.config
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\bin\Debug\COMEX.MaracadoAutomatico.CMD3.exe
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\bin\Debug\COMEX.MaracadoAutomatico.CMD3.pdb
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\bin\Debug\EntityFramework.dll
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\bin\Debug\EntityFramework.xml
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\obj\Debug\COMEX.MaracadoAutomatico.CMD3.exe
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD3\COMEX.MaracadoAutomatico.CMD3\obj\Debug\COMEX.MaracadoAutomatico.CMD3.pdb
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\bin\Debug\COMEX.MaracadoAutomatico.CMD3.exe.config
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\obj\Debug\COMEX.MaracadoAutomatico.CMD3.exe
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\obj\Debug\COMEX.MaracadoAutomatico.CMD3.pdb
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\bin\Debug\COMEX.MaracadoAutomatico.CMD3.exe
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\bin\Debug\COMEX.MaracadoAutomatico.CMD3.pdb
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\bin\Debug\EntityFramework.dll
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\bin\Debug\EntityFramework.xml
+C:\Control de Accesos y Asistencia\COMEX.MaracadoAutomatico.CMD\COMEX.MaracadoAutomatico.CMD3\obj\Debug\COMEX.MaracadoAutomatico.CMD3.csprojResolveAssemblyReference.cache
